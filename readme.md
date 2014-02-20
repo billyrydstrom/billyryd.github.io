@@ -61,22 +61,15 @@ Click on index.html: <br><img src="http://drp.io/files/530617faa31b5.png">
 
   
   
-  d
-
-<h2 id="Exercise2">Exercise 2</h2>
-
-
 
 
 
 
 
 <h2 id="Exercise3">Exercise 3</h2>
-<ol>
-  <li><a href="https://help.github.com/articles/markdown-basics">Learn about Markdown</a> and replicate Exercise 1 inside Readme.md</li>
-</ol>
 
- <li><b>the gorilla fires</b> </li>
+
+ <li><b>**the gorilla fires**</b> </li>
 
   <li>gorilla caused fires are the most dangerous natural disaster <h3>gorilla caused fires are the most dangerous natural disaster</h3></li>
   <li>If you have any information about a rapid gorilla on your block please call our hotline:</li>
@@ -91,13 +84,6 @@ Click on index.html: <br><img src="http://drp.io/files/530617faa31b5.png">
 
 
 
-
-<h2 id="Exercise4">Exercise 4</h2>
-<ol>
-  <li>Remove everything in this document between "Welcome to my site!" and "The End." Below, <b>EXCEPT</b> for Exercise1.</li>
-<li>That includes removing this section 4!</li>
-<li>Write your own content to replace what you've removed. At least two sentences, and use two HTML tags.</li>
-</ol>
 
 
 <br>The End.
