@@ -51,13 +51,12 @@ Click on index.html: <br><img src="http://drp.io/files/530617faa31b5.png">
   <li><b>Gorilla Attacks in South East Asia</b>:</li>
   <li>Make a 75 dollar donation <h3>Headline</h3></li>
   <li>Two thousand dead:</li>
-<img src="http://kylehammons.com/blog/wp-content/uploads/2012/05/20120505_Congo_296-Edit-600x399.jpg="http://forum.koramgame.com/thread-60307-1-1.html">please stay indoors</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</img> </li>
-  <li>Your image here:</li>
-  <li><a href="http://www.coceleratoru.com">Link</a> to some website.</li>
-  <li>www.anthony.com:</li>
-  <li>Add another item to the bottom of this list!</li>
-  <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
-</ol>
+<img src="
+  <li>http://kylehammons.com/blog/wp-content/uploads/2012/05/20120505_Congo_296-Edit-600x399.jpg="http://forum.koramgame.com/thread-60307-1-1.html">please stay indoors</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</img> </li>:</li>
+  <li><a href="http://www.coceleratoru.com">Link</a> wwww.anthony.com.</li>
+
+  <li>Shaking baby gorilla syndrome</li>
+
 
   
   
@@ -75,11 +74,10 @@ Click on index.html: <br><img src="http://drp.io/files/530617faa31b5.png">
   <li>If you have any information about a rapid gorilla on your block please call our hotline:</li>
   <li>http://whomurderedrobertwone.com/wp-content/uploads/2010/04/gorilla1.jpg(<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</li>
   <li>http://images2.wikia.nocookie.net/__cb20061103101248/uncyclopedia/images/7/71/Man-on-fire.jpg:</li>
-  <li><a href="http://www.coceleratoru.com">Link</a> to some website.</li>
-  <li>www.anthony.com:</li>
-  <li>Add another item to the bottom of this list!</li>
-  <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
-</ol>
+  <li><a href="http://www.coceleratoru.com">Link</a> www.anthony.com.</li>
+  
+  <li>Dakota Fanning at age 20!</li>
+  <li>Chocolate <a href="happyvalentinesday.com">
 
 
 
