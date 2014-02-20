@@ -61,7 +61,7 @@ Click on index.html: <br><img src="http://drp.io/files/530617faa31b5.png">
 
   
   
-  
+  d
 
 <h2 id="Exercise2">Exercise 2</h2>
 <ol>
