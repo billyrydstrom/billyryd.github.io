@@ -47,11 +47,11 @@ Click on index.html: <br><img src="http://drp.io/files/530617faa31b5.png">
 
 <h2 id="Exercise1">Exercise 1</h2>
 <ol>
-  <li><b>Bold</b> Attention Citizens</li>
+  <li><b>Attention Citizens</b> </li>
   <li><b>Gorilla Attacks in South East Asia</b>:</li>
   <li>Make a <h3>Headline</h3></li>
   <li>Two thousand dead:</li>
-  <li>http://kylehammons.com/blog/wp-content/uploads/2012/05/20120505_Congo_296-Edit-600x399.jpg="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</li>
+<img src="http://kylehammons.com/blog/wp-content/uploads/2012/05/20120505_Congo_296-Edit-600x399.jpg="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</img> </li>
   <li>Your image here:</li>
   <li><a href="http://www.coceleratoru.com">Link</a> to some website.</li>
   <li>www.anthony.com:</li>
