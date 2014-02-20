@@ -47,30 +47,17 @@ Click on index.html: <br><img src="http://drp.io/files/530617faa31b5.png">
 
 <h2 id="Exercise1">Exercise 1</h2>
 <ol>
-  <li><b>Bold</b> some text</li>
+  <li><b>Bold</b> Attention Citizens</li>
   <li><b>Gorilla Attacks in South East Asia</b>:</li>
   <li>Make a <h3>Headline</h3></li>
   <li>Two thousand dead:</li>
-  <li>http://whomurderedrobertwone.com/wp-content/uploads/2010/04/gorilla1.jpg(<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</li>
+  <li>http://kylehammons.com/blog/wp-content/uploads/2012/05/20120505_Congo_296-Edit-600x399.jpg="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</li>
   <li>Your image here:</li>
   <li><a href="http://www.coceleratoru.com">Link</a> to some website.</li>
   <li>www.anthony.com:</li>
   <li>Add another item to the bottom of this list!</li>
   <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
 </ol>
-
- <li><b>Bold</b> some text</li>
-  <li>*gorilla caused fires are dangerous*:</li>
-  <li>Make a <h3>Headline</h3></li>
-  <li>If you have any information about a rapid gorilla on your block please call our hotline:</li>
-  <li>http://whomurderedrobertwone.com/wp-content/uploads/2010/04/gorilla1.jpg(<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</li>
-  <li>Your image here:</li>
-  <li><a href="http://www.coceleratoru.com">Link</a> to some website.</li>
-  <li>www.anthony.com:</li>
-  <li>Add another item to the bottom of this list!</li>
-  <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
-</ol>
-
 
   
   
@@ -81,6 +68,21 @@ Click on index.html: <br><img src="http://drp.io/files/530617faa31b5.png">
   <li>Update all references in this document which say Mike or MikeSchroll to your own name and github username.</li>
   <li>Go into Readme.md instead of index.html and update MikeSchroll to your github username</li>
 </ol>
+
+
+ <li><b>Bold</b> the gorilla fires</li>
+  <li>*gorilla caused fires are the most dangerous natural disaster*:</li>
+  <li>Make a <h3>Headline</h3></li>
+  <li>If you have any information about a rapid gorilla on your block please call our hotline:</li>
+  <li>http://whomurderedrobertwone.com/wp-content/uploads/2010/04/gorilla1.jpg(<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</li>
+  <li>http://images2.wikia.nocookie.net/__cb20061103101248/uncyclopedia/images/7/71/Man-on-fire.jpg:</li>
+  <li><a href="http://www.coceleratoru.com">Link</a> to some website.</li>
+  <li>www.anthony.com:</li>
+  <li>Add another item to the bottom of this list!</li>
+  <li>Read about <a href="http://www.quackit.com/html/tags/">other HTML tags</a> and use one here that hasn't been used yet!</li>
+</ol>
+
+
 
 <h2 id="Exercise3">Exercise 3</h2>
 <ol>
