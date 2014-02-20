@@ -70,9 +70,9 @@ Click on index.html: <br><img src="http://drp.io/files/530617faa31b5.png">
 </ol>
 
 
- <li><b>Bold</b> the gorilla fires</li>
-  <li>*gorilla caused fires are the most dangerous natural disaster*:</li>
-  <li>Make a <h3>Headline</h3></li>
+ <li><b>the gorilla fires</b> </li>
+
+  <li>gorilla caused fires are the most dangerous natural disaster <h3>gorilla caused fires are the most dangerous natural disaster</h3></li>
   <li>If you have any information about a rapid gorilla on your block please call our hotline:</li>
   <li>http://whomurderedrobertwone.com/wp-content/uploads/2010/04/gorilla1.jpg(<a href="http://forum.koramgame.com/thread-60307-1-1.html">here's some help</a>): <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Smiley.svg/800px-Smiley.svg.png" height="50" width="50"</li>
   <li>http://images2.wikia.nocookie.net/__cb20061103101248/uncyclopedia/images/7/71/Man-on-fire.jpg:</li>
