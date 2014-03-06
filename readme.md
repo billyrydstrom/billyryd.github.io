@@ -18,8 +18,17 @@
    <li><h3>Where are these gorillas getting the energy?</h3></li>
   <li><img src="http://ferociousstrength.com/wp-content/uploads/2012/05/foto-s-van-geeuwen-gorilla-nb18724.jpg" height="350" width="350"</li>
   
+  <style type="text/css">
   
-<font color="blue">This text will be blue.</font> 
+  body {
+ color: #HEXCODE;
+ }
+ 
+ <font style="color: #HEXCODE;">Your text goes here.</font>
+
+</style>
+
+
 
 <address>
  Written by Billy R<br>
