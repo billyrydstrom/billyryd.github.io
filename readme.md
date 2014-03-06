@@ -19,7 +19,7 @@
   <li><img src="http://ferociousstrength.com/wp-content/uploads/2012/05/foto-s-van-geeuwen-gorilla-nb18724.jpg" height="350" width="350"</li>
   
   
- <Center> <p> Contact info<font color = "40E0D0"> </p>
+<font color="#FF6699">Contact info.</font>
 
 <address>
  Written by Billy R<br>
